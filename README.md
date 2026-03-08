@@ -1,6 +1,6 @@
 # 200 AI Prompts for Build-Your-Own-Gaming Experience
 
-Transform your gaming experience with this comprehensive list of 200 unique and engaging AI prompts! Tailor your gameplay to suit your preferences and create a one-of-a-kind gaming adventure. Perfect 
+Get ready to level up your gaming experience with these 200 unique and engaging prompts specifically tailored for creating custom games! Perfect for indie developers and hobbyists alike. Dive into the
 
 ## Dataset Info
 
@@ -14,7 +14,7 @@ Transform your gaming experience with this comprehensive list of 200 unique and 
 ## Sample
 
 ```json
-"Design a retro-inspired platformer where players can collect power-ups that grant them special abilities."
+"..."
 ```
 
 ## Usage
