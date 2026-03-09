@@ -1,4 +1,4 @@
-# 200-ai-prompts-for-build-your-own-gaming-experience
+# 200 AI Prompts for Build-Your-Own-Gaming Experience
 
 Get ready to level up your gaming experience with these 200 unique and engaging prompts specifically tailored for creating custom games! Perfect for indie developers and hobbyists alike. Dive into the
 
@@ -14,7 +14,7 @@ Get ready to level up your gaming experience with these 200 unique and engaging 
 ## Sample
 
 ```json
-Keys: title, description, price
+"..."
 ```
 
 ## Usage
